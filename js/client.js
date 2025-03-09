@@ -1,4 +1,4 @@
-const socket = io ('http://localhost:8000');
+const socket = io ('https://chat-backend-2-o316.onrender.com');
 
 const form = document.getElementById ("sendcontainer")
 const messageinput = document.getElementById ("messageimp")
